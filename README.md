@@ -24,10 +24,10 @@ Hi guys, I'm Amin Jafari. currently I am a software student and Python developer
 ## 📊 Github Status 
 <div align="left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminjjjeffrey&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminjjjeffrey&show_icons=true&theme=merko&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aminjjjeffrey&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aminjjjeffrey&theme=merko&hide_border=true)](https://git.io/streak-stats)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aminjjjeffrey&theme=merko&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aminjjjeffrey&theme=merko)
 
 </dive>
