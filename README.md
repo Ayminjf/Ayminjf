@@ -28,6 +28,6 @@ Hi guys, I'm Amin Jafari. currently I am a software student and Python developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aminjjjeffrey&theme=merko)](https://git.io/streak-stats)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aminjjjeffrey&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aminjjjeffrey&theme=merko&hide_border=false)
 
 </dive>
