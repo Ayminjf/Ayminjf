@@ -7,7 +7,7 @@ Hi guys, I'm Amin Jafari. currently I am a software student and Python developer
 <a target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=78FF00&labelColor=003C00&color=003C00'/></a>
 <a style="margin-left: 10px" target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFF00&labelColor=3C3C00&color=3C3C00'/></a>
 <a style="margin-left: 10px" target="_blank"><img alt='dart' src='https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=00FFE1&labelColor=003C3C&color=003C3C'/></a>
-<a style="margin-left: 10px" target="_blank"><img alt='dart' src='https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=ff0095&labelColor=8f006b&color=8f006b'/></a>
+<a style="margin-left: 10px" target="_blank"><img alt='dart' src='https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=ff0099&labelColor=690055&color=690055'/></a>
 <a style="margin-left: 10px" target="_blank"><img alt='css3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=FF7800&labelColor=411E00&color=411E00'/></a>
 
 
