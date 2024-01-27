@@ -17,6 +17,5 @@ Hi guys, I'm Amin Jafari. currently I am a software student and Python, Flutter 
 <a style="margin-left: 10px" href='mailto:Ayminjf@gmail.com?subject=%3F&body=%3F' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=DB4437&color=DB4437'/></a>
 
 # 📊 GitHub Stats
-![Amin Jafari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayminjf\&bg_color=d3d3d3\&title_color=000\&text_color=000\&hide_title=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayminjf&\&bg_color=d3d3d3\&title_color=000\&text_color=000theme=dark&layout=compact&hide_title=true)<br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayminjf&&bg_color=d3d3d3&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=300&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=450 src='https://github-readme-stats.vercel.app/api?username=ayminjf&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&count_private=true'/><br/>
+<img width=450 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayminjf&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&layout=compact&hide_title=true'/><br/>
